@@ -1,9 +1,7 @@
 # NaiveBlog
 参照MarkerHub里的vue-blog后端
 
-## Shiro
-
-使用Shiro作为登陆和验证
+## Spring Security+JWT
 
 ## Swagger
 
